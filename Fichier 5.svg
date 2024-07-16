@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.26 591.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dcedfb;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #ffcd07;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 22px;
+      }
+
+      .cls-4 {
+        fill: #eef4fb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Calque_7" data-name="Calque 7">
+    <g>
+      <g>
+        <polygon class="cls-4" points="253.26 580.17 132.13 473.9 11 580.17 11 90.05 253.26 90.05 253.26 580.17"/>
+        <circle class="cls-1" cx="136.32" cy="121.65" r="98.52"/>
+        <circle class="cls-3" cx="137.53" cy="98.81" r="87.81"/>
+      </g>
+      <path class="cls-2" d="M113.43,42.2c-1.13-.22,64.73-12.21,84.27,24.83s-14.66,73.68-14.66,73.68c0,0,21.98-83.05-69.61-98.51Z"/>
+      <path class="cls-1" d="M20.02,560.02c.89-3.56,112.11-164.44,112.11-164.44l110.12,159.85-110.12-95.2-112.11,99.8Z"/>
+    </g>
+  </g>
+</svg>
